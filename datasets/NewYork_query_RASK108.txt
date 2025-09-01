@@ -1,0 +1,100 @@
+92340033 25191571 city Vanderbilt postcode Valley street state Way addr properties Stream nysaddresspointid NASS NY nysgissam housenumber
+54235964 30015859 gallery metaphorprojects com website Su properties opening Projects Sa https Metaphor name tourism
+27828506 16595680 photovoltaic power electricity properties source yes solar type panel output generator method
+53480339 39639289 fabric street state fabrics fox Fabric curtain York artificial All fur shop New leather NY postcode phone opening th name Mo kinds West upholstery city sequin addr properties velvet Sa faux Inc ethnic Street housenumber
+55047271 35693975 St amenity parking small large rackid street properties cityracks covered th stands bicycle housenum no capacity
+52103423 34692712 shop postcode street Su addr properties Reformation opening clothes Sa Howard Mo name Street housenumber
+56464608 53401933 amenity street Fort Lemoine addr properties Clinic veterinary Animal Lee name Avenue housenumber
+23156436 51218044 city Aubrey US postcode street state addr properties country Road NJ Montclair housenumber
+53681122 37235080 street website state Fr country branch York https stores store barnesandnoble Barnes shop Su signed New Noble NY postcode phone opening Th th name Mo wikipedia no city books US com brand addr properties wikidata Sa East Street Square en housenumber Union
+97094234 30656295 city postcode street state addr properties Elmont Rye nysaddresspointid NASS Court NY nysgissam housenumber
+97381640 32831881 city postcode street state addr properties Elmont Avenue nysaddresspointid NASS Hunnewell NY nysgissam housenumber
+71532501 40247132 Northern amenity street cuisine addr properties Tacos Boulevard name restaurant mexican Mexico housenumber
+78243011 67086722 uuid state source Geonames reviewed id Westchester USGS ele gnis building feature NY county yes name bb Stein import no addr properties Hall
+61713520 38496881 stop platform Skillman public transport ref Queens properties Boulevard yes bus highway name Avenue route
+56683898 28588363 amenity parking small large rackid street Vanderbilt properties Ave cityracks bicycle housenum capacity
+57643133 34071072 Sweethaus shop com street website Su phone addr properties sweethaus opening bakery Metropolitan Mo name Avenue http
+54304950 27558012 healthcare website York Interventional http Pain New Spine amenity doctors phone fax name palliative com neurology speciality properties Medicine spineandpainclinic clinic
+62557826 54596849 Mobile shop street PR addr properties Saint Nicholas name Avenue Mabi beverages
+83904127 32313082 shop postcode street atm deli addr properties yes th Street housenumber
+58203424 27525186 street website drink Fr https beer diet We Su cocktails draught amenity postcode phone opening vegan yes liquor name Mo www franklin limited com brunch wine cuisine vegetarian addr properties pub american Sa Franklin Avenue Th housenumber
+93453036 52735729 Washington street state Graywood Road different review Port nysaddresspointid NY postcode existing NASS nysgissam city addr properties element has housenumber
+47101410 35867700 en takeaway amenity sandwich Cos brand cuisine properties wikidata fast yes name restaurant wikipedia food
+54644980 42523732 avenue broadleaved cycle properties deciduous leaf type natural denotation tree
+21241184 42994095 worship state African Methodist Episcopal methodist id Church ele gnis feature religion created amenity denomination county name christian properties Saint Marks place
+77013269 50208302 Bronx postcode street addr properties Road Cross North Service Expressway housenumber
+55767621 29170523 website drink https beer Su cocktails draught amenity tinyscantina Tiny phone opening yes liquor name Mo Cantina mexican com wine cuisine pub properties
+40589828 21590084 passenger information shelter ref Street Beach highway Van Duzer display stop transport yes bus name bench no platform public properties route
+54270704 36580687 city postcode street state addr properties New York East th Street NY housenumber
+65044296 28171753 route stop Dean public transport Rockaway platform ref properties yes bus highway name Avenue Street
+64010917 39591579 Northern shop street addr properties Major Boulevard car name World housenumber
+88922097 37089718 passenger information shelter ref Turnpike highway display stop transport Springfield yes bus name bench no platform public properties Boulevard route Union
+49815562 32640025 healthcare Fr Reade Su dispensing wheelchair amenity Duane opening yes Mo name wikipedia no brand pharmacy properties wikidata Sa en
+56820232 33416172 street website Broadway https seating sidewalk outdoor We Su italian amenity postcode phone opening name www com cuisine addr properties baranobk Barano Sa Th restaurant housenumber
+83089806 44756955 stop platform public transport shelter ref Lane Bell properties Boulevard yes bus highway name bench route Estates no
+52970237 41781222 man US flagpole made properties States country wikidata flag type name national subject United
+60278516 28961248 route stop Brooklyn Fulton public transport platform ref properties yes bus highway name Avenue Street
+53276339 36338600 amenity parking small large rackid street properties Broadway cityracks covered stands bicycle housenum no capacity
+54955937 39973942 street website Fr Caboose http shop The toys postcode opening theredcaboose th name Mo West Red com addr properties Sa Street housenumber
+45234246 34589175 tactile paving island crossing properties signals yes highway traffic no
+90825681 25737486 route stop platform public transport shelter ref properties Street yes th bus highway name bench Avenue no
+50974478 59607065 school amenity id state properties wikidata county High ele name gnis Teaneck feature School created
+53204686 38774403 Potbelly Shop shop postcode street Sandwich deli addr properties th name Avenue housenumber
+22106708 68038000 healthcare street state Hamburg MD doctor Turnpike Wayne unit Paterson amenity postcode doctors name NJ city Dr addr properties Faisal Mahmood housenumber
+51002521 32564967 tactile paving island crossing properties signals yes highway traffic markings zebra no
+23387639 52442612 city US postcode street state addr properties Haddon country Place NJ Montclair housenumber
+63328060 18868541 amenity parking installed large rackid small street properties Flatbush Ave cityracks bicycle housenum capacity
+55150068 29659713 agent office postcode street Mubarez phone addr properties name Avenue Atlantic travel housenumber Travel
+47355237 37933647 city Merkaartor street addr properties Willow Ave by Hoboken created housenumber
+54296457 40905032 en theatre amenity level properties wikidata the name Circle Theatre wheelchair in Square wikipedia no
+20605603 45421058 city Drive US postcode street Pierpont state addr properties country NJ Montclair housenumber
+97735786 36625948 city Jericho postcode Hyde Park state street addr properties Turnpike New nysaddresspointid NASS NY nysgissam housenumber
+54125805 38649490 st street West access level addr properties sliding motion yes entrance wheelchair door Street automatic housenumber
+54100602 43960098 date toilets amenity check properties female yes wheelchair no male
+53125730 29294219 shop postcode street disused Deli addr properties Smith convenience name Street Finest housenumber
+68616697 54649096 street website Fr vesatravel http Travel agent email office phone opening fax Mo name Vesa info com addr properties Sa Avenue travel Arthur housenumber
+52782236 25949602 tactile paving marked island kerb crossing properties left yes highway extension no
+17239449 7230699 street broadleaved cycle properties deciduous leaf type natural denotation tree
+93026078 26111037 city postcode Valley street state Lane addr properties Stream nysaddresspointid NASS Mayfield NY nysgissam housenumber
+53864340 47339831 Edgewater street state shop The postcode Ann name NJ Loft wikipedia city women brand addr properties wikidata clothes Promenade Inc en housenumber
+60081313 51159116 shelter ref Broadway NYC Transit highway network route stop transport yes th bus name bench West no platform public properties wikidata Street
+59603949 47644600 Clayton passenger information shelter ref Jr highway display Adam stop route transport yes th bus name bench West no platform public properties Powell Boulevard Street
+52872106 20573559 man US flagpole made properties States country wikidata flag type name national subject United
+46084755 40728944 ref Avenut operator NJT Transit Operations highway Summit network stop transport yes th bus name NJ platform public Bus properties wikidata short Street
+86696279 28905262 stop Merrick public transport platform ref shelter properties Boulevard yes bus highway name bench route Farmers
+21857374 50172664 city US postcode street Park state addr properties country Street NJ Montclair housenumber
+68419247 39054781 amenity postcode street Amalgamated addr properties th bank Avenue name Bank housenumber
+54219283 35145959 street website drink Fr https snack beer Su draught amenity postcode phone opening bar liquor yes name Mo Kelly com pizza cuisine addr properties Sa Avenue kellysnyc housenumber
+73448695 30926542 shop street addr properties clothes Jamaica Blue name Avenue Baby Ladies housenumber
+53846543 38521069 street website Broadway york branch https milkbarstore Bar shop Su delivery Nomad Milk pages postcode phone opening new yes Mo name pastry city takeaway com addr properties Sa flagship Th housenumber
+58479381 36218933 amenity parking installed large rackid small street properties Greenpoint Av cityracks bicycle housenum capacity
+61598389 32417025 street website company Fr http nyc email unit Brooklyn office Design phone opening hello LLC name Mo White Factory addr properties bkdf Street housenumber
+51998901 34590218 amenity postcode street cuisine addr properties August Canal chinese name Street restaurant Gatherings housenumber
+46305727 39890812 ref operator Transit Operations highway stop transport yes th bus name NJ platform public Bus properties Bergenline Avenue Street
+52934628 32348459 street website state Water Fr location https Street seating Hills outdoor drive amplehills Su Creamery NY Brooklyn amenity postcode phone opening Th cream through yes Mo name wikipedia no city takeaway house com cuisine brand ice addr properties only wikidata fireboat Ample en housenumber
+56832391 14265761 tactile paving island operated crossing properties button vibration signals yes highway traffic sound no
+57687712 46501350 street website state country York http Wines shop Columbus Valley New Manhattan NY postcode name Spirits manhattanvws city US com addr properties Avenue alcohol housenumber
+26113791 37054138 street website King https Martin sbp St org Jr Preparatory Luther school amenity postcode phone name www Benedict Dr addr properties wikidata Boulevard School housenumber
+69711758 33716680 restaurant japanese street Fr Metropolitan Japanese Su delivery amenity phone opening yes Mo name takeaway cuisine Cuisine addr properties Sa Avenue Th Toyo housenumber
+99807777 29835163 city postcode street state addr properties Willow Road Franklin nysaddresspointid NASS Square NY nysgissam housenumber
+99902023 43038153 Manhasset street state Court different review Hyde nysaddresspointid NY postcode existing NASS nysgissam city addr properties element has housenumber
+56757667 39162535 man flagpole made properties country wikidata DE flag type name national Germany height subject
+59035107 46342031 cafebarpopularr street website Nicholas Bar http access Kitchen Cafe Claire internet amenity postcode bar name com addr properties Saint Avenue Popularr wlan en housenumber
+59017281 22009665 shelter ref Road NYC Campus Transit highway network stop Brooklyn transport yes bus name Bedford platform public properties wikidata College Avenue route
+55849258 29087567 amenity parking installed large rackid small street properties Ave cityracks th bicycle housenum capacity
+22624608 48399950 city US postcode street state addr properties country Crescent NJ Montclair Walnut housenumber
+60742170 16505897 city Brooklyn postcode street state addr properties Avenue NY housenumber
+57945307 28262521 street drink Deli convenience beer shop atm Park sandwich Su coffee postcode phone opening yes Mo breakfast name cuisine addr properties Place housenumber
+98915803 43342908 Manhasset street state different review Circle nysaddresspointid NY postcode Fairway existing NASS North nysgissam city addr properties element has housenumber
+66968823 53042787 photovoltaic power electricity properties source yes solar type panel output generator method
+20733053 51602523 city US postcode street state addr properties country Highland NJ Avenue Montclair housenumber
+79925769 31731617 stop public transport properties Station Jamaica yes light name D position rail old railway
+63608684 32239647 route stop platform public transport shelter ref properties DeKalb yes Irving bus highway name bench Avenue no
+53686398 35628554 amenity parking small large rackid street Ave properties nd cityracks covered stands bicycle housenum no capacity
+93761573 35272800 found street state Road review Floral Park nysaddresspointid address NY postcode existing NASS nysgissam city Superior addr properties matching housenumber
+54101167 40116494 bella amenity street West tranttoria addr properties vita name rd Street restaurant housenumber
+58349874 43845764 healthcare walgreens street website drink Fr york Pharmacy https beer Reade madison ave id atm locator ny dispensing duane reade wheelchair amenity postcode Duane phone opening new yes Mo name www Store wikipedia com wine brand addr properties pharmacy wikidata Sa Avenue open Madison en housenumber
+19487731 69013510 city shop hairdresser postcode street state addr properties Turnpike Gallery Wayne Hamburg name NJ Hair Paterson housenumber
+53483818 38617388 Room street website hotels http room nyc The amenity fleur Fleur moxy the bar th name West com addr properties Street chelsea marriott
+41362323 53889920 shop postcode street phone addr properties Harbour hardware name NJ Freight Tools
+9991634 32281444 healthcare street website state Healthcare Fr express cards highest cheque https community medicine with comprehensive physical operator therapy doctor providing New redefinehealthcare Eric sport email credit quality amenity postcode doctors cash mastercard phone opening Morris the medical care name Mo NJ Redefine DO type yes payment pain management city info Jersey com Dr public speciality addr properties american Freeman covid visa Avenue open Th clinic chiropractic housenumber Union
