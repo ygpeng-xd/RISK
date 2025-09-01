@@ -26,7 +26,7 @@ You can modify Kmax and the output path.
 All three datasets will be processed in a loop, and file names are automatically concatenated.
 By default, the representative point is set to center.
 To use centroid instead, change the field algorithm_type to 'centroid' and switch the result_points setting (comment/uncomment accordingly).
-Outputs the generation time of the quadtree index file.\
+Outputs the generation time of the quadtree index file.
 
 3) hash_database.py
 Modify the output path of the encrypted index file.
