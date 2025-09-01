@@ -7,14 +7,14 @@
    pip install numpy pandas shapely pycryptodome
    
 ## Code Execution
-1. Notes
+# 1. Notes
 The original datasets include twitter, newyork, and paris, each with a corresponding query file (the file name contains the keyword query).
 The current experimental settings are:
 Maximum secure index size: Kmax = 80
 Representative point of the grid: center
 Number of neighbors for each representative point: 10
 
-2. quad_index.generate_databases
+# 2. quad_index.generate_databases
 1) invert_database.py
 Select any original dataset.
 Manually modify the output path and file name of the inverted index.
@@ -40,12 +40,12 @@ You can define the number of query keywords.
 The format is:
 keyword1 keyword2 ... keywordn querypoint
 
-2. quad_index.generate_csv
+# 2. quad_index.generate_csv
 1) csv_file.py
 Modify the output path of the result statistics file.
 Generates a template for the final statistics file.
 
-3. quad_index.exp_test
+# 3. quad_index.exp_test
 1) correct_testPlus_knn.py
 Controls looping with K_values = [2, 4, 6, 8, 10].
 You can modify the dataset, query set, dataset_name, algorithm_type, use_own_file, and same_file_k to control the testing method and files used.
